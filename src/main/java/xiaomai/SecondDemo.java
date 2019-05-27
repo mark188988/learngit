@@ -12,4 +12,7 @@ public class SecondDemo {
 
     public void say() {}
 
+    public void talk(){}
+
+
 }

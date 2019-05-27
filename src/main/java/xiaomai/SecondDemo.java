@@ -7,6 +7,9 @@ public class SecondDemo {
         //无敌多人
         System.out.println("两个人");
         System.out.println("你是两只猪");
-        //
+
     }
+
+    public void say() {}
+
 }

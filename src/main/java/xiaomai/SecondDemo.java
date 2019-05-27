@@ -7,12 +7,20 @@ public class SecondDemo {
         //无敌多人
         System.out.println("两个人");
         System.out.println("你是两只猪");
+        //43
 
     }
 
     public void say() {}
 
     public void talk(){}
+
+    public void a(){
+
+    }
+
+    public void b(){}
+    
 
 
 }

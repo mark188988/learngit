@@ -8,6 +8,7 @@ public class SecondDemo {
         System.out.println("两个人");
         System.out.println("你是两只猪");
         //89
+        //小小小小
 
     }
 

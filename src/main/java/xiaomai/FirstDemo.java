@@ -7,6 +7,7 @@ public class FirstDemo {
         System.out.println("你是一只猪");
         //一只真的猪
         //新的新的
+        //旧的旧的
 
     }
 }

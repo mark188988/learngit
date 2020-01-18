@@ -9,7 +9,7 @@ public class SecondDemo {
         System.out.println("你是两只猪");
         //89
         //小小小小
-        // 可以立刻
+        // 我是分之
 
     }
 

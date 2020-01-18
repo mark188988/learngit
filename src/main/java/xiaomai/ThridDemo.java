@@ -6,6 +6,5 @@ public class ThridDemo {
         //这是怎么回事
         //a
         //b
-        // 猜猜
-}
+    }
 }

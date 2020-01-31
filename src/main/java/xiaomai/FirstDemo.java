@@ -33,8 +33,6 @@ public class FirstDemo {
         // gegegege
         // ff
         //,,,
-        // 12
-        // 13
 
     }
 }
